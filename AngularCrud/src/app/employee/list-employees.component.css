@@ -1,0 +1,14 @@
+
+.imgSize{
+    height: 200px;
+    width:200px;
+}
+
+.vertical-align{
+   align-items: center;
+   display: flex;
+}
+
+.col-xs-8{
+    font-size: 15px;
+}
